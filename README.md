@@ -1,1 +1,1 @@
-# student-depression-chatbot-finpro-avpn
+# Student Depression Chatbot (Finpro AVPN)
